@@ -15,7 +15,7 @@ NoNamed 동아리의 17학번 5명이서 진행하는 **똑똑한 거울** 프�
 ### App
 - 일정 관련 기능
   ex) 약속 시간까지 XX분 남았습니다.
-- Youtuve Share API를 이용하여 원하는 영상 재생
+- Youtube Share API를 이용하여 원하는 영상 재생
 
 ### Server
 - App과 RPi 사이의 데이터 처리 담당(일정, Youtube)
