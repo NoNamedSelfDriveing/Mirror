@@ -4,7 +4,7 @@ NoNamed 동아리의 17학번 5명이서 진행하는 **똑똑한 거울** 프�
 
 # Members
 
-### 20303 김현우
+### 20303 김현우 - 팀장
 ### 20308 손영동
 ### 20311 오준영
 ### 20315 이소연
@@ -13,19 +13,21 @@ NoNamed 동아리의 17학번 5명이서 진행하는 **똑똑한 거울** 프�
 # Contents
 ## - 각 파트 담당자가 내용 작성
 
-### Google Assistant API
+### Google Assistant API - 이소연
 
 
-### Frame
+### Frame - 손영동
 
 
-### RPi Sleep Mode
+### RPi Sleep Mode - 장지원
 
 
-### Circuit Configuration
+### Circuit Configuration - 오준영
 
 
-### Network Configuration
+### Network Configuration - 김현우
+ - 스마트 미러를 사용하면서 필요한 네트워크 구성
+ - 기존 계획에서 더 간단하게 변경 됨
 
 
 # Rules
