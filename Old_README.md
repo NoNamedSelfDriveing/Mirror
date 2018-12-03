@@ -4,33 +4,31 @@ NoNamed 동아리의 17학번 5명이서 진행하는 **똑똑한 거울** 프�
 
 # Members
 
-### 20303 김현우
+### 20303 김현우 - 팀장
 ### 20308 손영동
 ### 20311 오준영
 ### 20315 이소연
 ### 20318 장지원
 
 # Contents
+## - 각 파트 담당자가 내용 작성
 
-### App
-- 일정 관련 기능
-  ex) 약속 시간까지 XX분 남았습니다.
-- Youtuve Share API를 이용하여 원하는 영상 재생
+### Google Assistant API - 이소연
 
-### Server
-- App과 RPi 사이의 데이터 처리 담당(일정, Youtube)
 
-### H/W
-- RPi
-    - 날씨 API
-    - 시간
-    - 뉴스 헤드라인
-    - GUI
-    - Idle 모드 (미정)
-- Frame
-- Peripheral
-    - 모니터
-    - 공유기: 무선으로 Smart Mirror
+### Frame - 손영동
+
+
+### RPi Sleep Mode - 장지원
+
+
+### Circuit Configuration - 오준영
+
+
+### Network Configuration - 김현우
+ - 스마트 미러를 사용하면서 필요한 네트워크 구성
+ - 기존 계획에서 더 간단하게 변경 됨
+
 
 # Rules
 
@@ -47,11 +45,10 @@ NoNamed 동아리의 17학번 5명이서 진행하는 **똑똑한 거울** 프�
 - IDE 사용시 .gitignore에 소스 이외의 파일 추가
 
 ### Document
-- 모든 구현 과정은 문서로 남길 것
-    - word, 한글, markdown, Github Wiki 등
-    - 함수와 함수의 기능, 리턴 등 작성
-    - 프로그램 실행 순서가 아닌 동작 원리등 소스를 읽기만 해서는 알 수 없는 부분 작성
-- 개발한 소스의 내용 뿐만 아니라 개념적으로 관련된 부분도 포함
+- 개발한 소스의 내용 뿐만 아니라 개념적으로 관련된 부분도 포함하여 문서화
+- word, 한글, markdown, Github Wiki 이용
+- 함수와 함수의 기능, 반환값 등 작성
+- 프로그램 실행 순서가 아닌 동작 원리 등 소스를 읽기만 해서는 알 수 없는 부분 작성
 
 ### Naming
 - 파일명: 단어 첫글자 마다 대문자 
